@@ -1,0 +1,26 @@
+_repo: The-Siege-of-Kimberley--13-Its-Humorous-and-Social-Side--Anglo-Boer-War--1899-1902---Eighteen__13777
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Phelan, T.
+    gutenberg_agent_id: '5215'
+    url: http://www.gutenberg.org/2009/agents/5215
+description: ''
+gutenberg_issued: '2004-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kimberley (South Africa) -- History -- Siege, 1899-1900'
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902 -- Personal narratives'
+title: "The Siege of Kimberley\r\nIts Humorous and Social Side; Anglo-Boer War (1899-1902);\
+  \ Eighteen Weeks in Eighteen Chapters"
+url: http://www.gutenberg.org/ebooks/13777
