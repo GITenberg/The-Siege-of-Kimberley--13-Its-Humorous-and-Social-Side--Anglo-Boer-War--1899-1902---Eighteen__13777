@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5215'
     url: http://www.gutenberg.org/2009/agents/5215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13777#The-Siege-of-Kimberley--13-Its-Humorous-and-Social-Side--Anglo-Boer-War--1899-1902---Eighteen_
 gutenberg_issued: '2004-10-18'
 gutenberg_type: Text
 identifiers:
